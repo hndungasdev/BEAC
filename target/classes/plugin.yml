@@ -1,0 +1,11 @@
+name: BEAC
+version: '0.0.1'
+main: doubledev.beac.BEAC
+api-version: '1.21'
+depend: [floodgate, ProtocolLib]
+folia-supported: true
+permissions:
+  beac.staff:
+    description: Staff permission.
+
+

@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="BEAC:jar">
+    <output-path>$PROJECT_DIR$/../../test ac/plugins</output-path>
+    <root id="archive" name="BEAC.jar">
+      <element id="module-output" name="BEAC" />
+    </root>
+  </artifact>
+</component>
